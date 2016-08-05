@@ -2255,3 +2255,6 @@ button:active,
 #header .icons a:hover {
     color: #1E9FB4;
 }
+#imgPadBottom {
+    padding-bottom: 20px;
+}
